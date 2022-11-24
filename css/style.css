@@ -47,7 +47,7 @@ body {
   font-family: var(--ff-primary);
   font-size: var(--fs-body);
   line-height: 1.6;
-  background-image: url(/images/chris-galbraith-7XAM0J3dNQM-unsplash.jpg);
+  background-image: url(images/chris-galbraith-7XAM0J3dNQM-unsplash.jpg);
   background-size: contain;
 }
 
